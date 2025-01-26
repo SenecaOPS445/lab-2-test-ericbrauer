@@ -97,7 +97,7 @@ OK (skipped=1)
 OPS445 Lab Report - System Information for running ./CheckLab2.py
 =================================================================
     User login name: eric
-    Git Email: eric.m.brauer@gmail.com
+    Git Email: ebrauer@myseneca.ca
     Linux system name: NeoMex
     Python executable: /home/eric/.pyenv/versions/3.12.6/bin/python3
     Python version:  3.12.6 (main, Nov  8 2024, 11:16:10) [GCC 13.2.0]
